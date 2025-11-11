@@ -1,0 +1,14 @@
+[
+{
+    "model": "articles.article",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "title": "안농준혀비",
+        "content": "귀여운뱃살",
+        "created_at": "2025-11-11T00:33:47.066Z",
+        "updated_at": "2025-11-11T00:33:47.066Z",
+        "like_users": []
+    }
+}
+]

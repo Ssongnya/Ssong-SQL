@@ -1,0 +1,24 @@
+[
+{
+    "model": "articles.comment",
+    "pk": 1,
+    "fields": {
+        "article": 1,
+        "user": 1,
+        "content": "10월 6일생 준혀비",
+        "created_at": "2025-11-11T00:33:52.356Z",
+        "updated_at": "2025-11-11T00:33:52.356Z"
+    }
+},
+{
+    "model": "articles.comment",
+    "pk": 2,
+    "fields": {
+        "article": 1,
+        "user": 1,
+        "content": "이준협은 왕바보",
+        "created_at": "2025-11-11T00:33:55.955Z",
+        "updated_at": "2025-11-11T00:33:55.955Z"
+    }
+}
+]
